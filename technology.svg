@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+<rect width="420" height="300" rx="22" fill="#e7f0f5"/>
+<rect x="80" y="45" width="260" height="170" rx="14" fill="#18324b"/>
+<rect x="94" y="59" width="232" height="142" rx="7" fill="#f8fbfd"/>
+<path d="M145 115 L175 145 L145 175 M205 175 L260 115" fill="none" stroke="#315b78" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M165 230 H255 L275 250 H145Z" fill="#315b78"/>
+<circle cx="210" cy="80" r="5" fill="#e4ad38"/>
+<text x="210" y="280" text-anchor="middle" font-family="Arial" font-size="15" fill="#18324b">LEARN • BUILD • IMPROVE</text>
+</svg>

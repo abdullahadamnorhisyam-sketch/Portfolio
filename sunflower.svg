@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+<rect width="420" height="300" rx="22" fill="#f8edcf"/>
+<circle cx="210" cy="118" r="42" fill="#6b4528"/>
+<g fill="#e8b33d">
+<ellipse cx="210" cy="48" rx="22" ry="48"/><ellipse cx="210" cy="188" rx="22" ry="48"/>
+<ellipse cx="140" cy="118" rx="48" ry="22"/><ellipse cx="280" cy="118" rx="48" ry="22"/>
+<ellipse cx="160" cy="68" rx="22" ry="48" transform="rotate(-45 160 68)"/>
+<ellipse cx="260" cy="68" rx="22" ry="48" transform="rotate(45 260 68)"/>
+<ellipse cx="160" cy="168" rx="22" ry="48" transform="rotate(45 160 168)"/>
+<ellipse cx="260" cy="168" rx="22" ry="48" transform="rotate(-45 260 168)"/>
+</g>
+<path d="M210 160 C205 205 230 230 210 280" fill="none" stroke="#47734b" stroke-width="12" stroke-linecap="round"/>
+<path d="M213 220 C165 190 130 208 145 238 C170 250 195 239 213 220Z" fill="#6d9a61"/>
+<path d="M215 248 C255 214 292 228 278 255 C252 270 232 262 215 248Z" fill="#6d9a61"/>
+<text x="210" y="290" text-anchor="middle" font-family="Arial" font-size="12" fill="#6b4528">GROW WITH CURIOSITY</text>
+</svg>
