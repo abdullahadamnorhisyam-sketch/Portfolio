@@ -1,3 +1,0 @@
-ABSTRACT (100 words)
-
-This personal website introduces my background as a Bachelor of Information Technology with Business Management student. It is designed to present my education, personal interests, professional interests, learning activities and career ambitions in one organised place. The website contains seven pages: Home, About Me, Interests, Professional Interests, Portfolio, Website Information Architecture and Contact. It uses a consistent visual theme, images, headings, paragraphs, lists, a table and internal and external hyperlinks to make information easier to explore. The website also highlights selected coursework and technology projects. Overall, it serves as a simple personal portfolio for academic and future career purposes.
